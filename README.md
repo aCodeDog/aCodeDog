@@ -1,8 +1,7 @@
 <div align="center">
    <h1>Hi there, I'm <a href="https://zifanw.notion.site/">Zifan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-   
-   
-   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+      <!-- <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">  -->
+
 </div>
 
  
@@ -18,7 +17,7 @@
    
  - 📱 (86) 13518393890
  
- - 💬 wang_zifan@outlook.com
+ - 💬 wang_zifan@outlook.com & zwang765@connect.hkust-gz.edu.cn
 ## 💡 Research Projects
 
 - [**legged-robots-manipulation**](https://github.com/aCodeDog/legged-robots-manipulation): A loco-manipulation repository for (wheel-)legged robots. ( IROS 2024 Submission. Released part code)
