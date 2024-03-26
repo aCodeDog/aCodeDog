@@ -20,3 +20,4 @@
 ## 💡 Research Projects
 
 - [**legged-robots-manipulation**](https://github.com/aCodeDog/legged-robots-manipulation): A loco-manipulation repository for (wheel-)legged robots. ( IROS 2024 Submission. Released part code)
+- [**Wheel-legged-robots-locomotion**](https://www.roboarts.cn/index): MIP-MPC Framework for Wheeled-Legged Robot working on Tough Terrain( ARTS 2023 Poster)
