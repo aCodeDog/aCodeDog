@@ -1,6 +1,6 @@
 <div align="center">
    <h1>Hi there, I'm <a href="https://zifanw.notion.site/">Zifan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-      <img src="https://github.com/aCodeDog/aCodeDog/blob/main/pic/WechatIMG8945.jpg" width="150"> 
+      <img src="https://github.com/aCodeDog/aCodeDog/blob/main/pic/WechatIMG8945.jpg" width="300"> 
 </div>
 
  
