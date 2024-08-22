@@ -19,5 +19,5 @@
  - 💬 wang_zifan@outlook.com & zwang765@connect.hkust-gz.edu.cn
 ## 💡 Research Projects
 
-- [**legged-robots-manipulation**](https://github.com/aCodeDog/legged-robots-manipulation): A loco-manipulation repository for (wheel-)legged robots. ( IROS 2024 Submission. Released part code)
+- [**legged-robots-manipulation**](https://github.com/aCodeDog/legged-robots-manipulation): A loco-manipulation repository for (wheel-)legged robots. ( IROS 2024 )
 - [**Wheel-legged-robots-locomotion**](https://www.roboarts.cn/index): MIP-MPC Framework for Wheeled-Legged Robot working on Tough Terrain( ARTS 2023 Poster)
