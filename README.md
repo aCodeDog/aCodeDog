@@ -19,5 +19,6 @@
  - 💬 wang_zifan@outlook.com & zwang765@connect.hkust-gz.edu.cn
 ## 💡 Research Projects
 
+- [**Imitation Learning for robotic arm**](https://teleema.github.io/projects/Sigma_Agent/): Contrastive Imitation Learning for Language-guided Multi-Task Robotic Manipulation. (CORL 2024)
 - [**legged-robots-manipulation**](https://github.com/aCodeDog/legged-robots-manipulation): A loco-manipulation repository for (wheel-)legged robots. ( IROS 2024 )
 - [**Wheel-legged-robots-locomotion**](https://www.roboarts.cn/index): MIP-MPC Framework for Wheeled-Legged Robot working on Tough Terrain( ARTS 2023 Poster)
