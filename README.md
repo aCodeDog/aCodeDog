@@ -6,7 +6,7 @@
  
 <br />
 <p align="center">
-  <h3> I am a PHD student, who studying in The Hong Kong University of Science and Technology (HKUST), Guangzhou Campus,.</h3>
+  <h3> I am a postgraduate student, who studying in The Hong Kong University of Science and Technology (HKUST), Guangzhou Campus,.</h3>
   <h3>My primary research focus is on legged robots, including quadrupeds, humanoids, and wheeled-legged robots.</h3>
 
    <h3> If you have any interesting projects related to legged robots, please contact me! I am very eager to collaborate on creating an intelligent robot.</h3>
