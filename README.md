@@ -50,6 +50,9 @@
 - [**legged-robots-manipulation**](https://github.com/aCodeDog/legged-robots-manipulation): A loco-manipulation repository for (wheel-)legged robots. ( IROS 2024 )![GitHub stars](https://img.shields.io/github/stars/aCodeDog/legged-robots-manipulation?style=social)
 
 - [**Genesis frameworks for legged-robots**](https://github.com/aCodeDog/genesis_legged_gym): A legged robots Framework for Genesis![GitHub stars](https://img.shields.io/github/stars/aCodeDog/genesis_legged_gym?style=social)
+
+-  [**Awesome list for loco-manipulation**](https://github.com/aCodeDog/awesome-loco-manipulation):Awesome-loco-manipulation list![GitHub stars](https://img.shields.io/github/stars/aCodeDog/awesome-loco-manipulation?style=social)
+
 ### Imitation Learning
 
 - [**Imitation Learning for Robotic Arm**](https://teleema.github.io/projects/GLOVER/): GLOVER: Generalizable open-vocabulary affordance reasoning for task-oriented grasping (Under Review)
