@@ -56,6 +56,7 @@
 ### Imitation Learning
 
 - [**Imitation Learning for Robotic Arm**](https://teleema.github.io/projects/GLOVER/): GLOVER: Generalizable open-vocabulary affordance reasoning for task-oriented grasping (Under Review)
+- [**Imitation Learning for Robotic Arm**](https://air-discoverse.github.io/): DISCOVERSE: Efficient Robot Simulation in Complex High-Fidelity Environments (Under Review)
 - [**Imitation Learning for Robotic Arm**](https://teleema.github.io/projects/Sigma_Agent/): Contrastive Imitation Learning for Language-guided Multi-Task Robotic Manipulation. (CORL 2024)
 - [**Imitation Learning for Robotic Arm**](https://jiaming-zhou.github.io/projects/HumanRobotAlign/): Mitigating the Human-Robot Domain Discrepancy in Visual Pre-training for Robotic Manipulation (CVPR 2025)
 ### locomotion
