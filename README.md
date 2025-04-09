@@ -6,14 +6,16 @@
  
 <br />
 <p align="center">
-  <h3> I am a postgraduate student, who studying in The Hong Kong University of Science and Technology (HKUST), Guangzhou Campus,.</h3>
+  <h3> I am a postgraduate student, who studying in The Hong Kong University of Science and Technology (HKUST), Guangzhou Campus.</h3>
   <h3>My primary research focus is on legged robots, including quadrupeds, humanoids, and wheeled-legged robots.</h3>
 
    <h3> If you have any interesting projects related to legged robots, please contact me! I am very eager to collaborate on creating an intelligent robot.</h3>
 </p>
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=aCodeDog&include_all_commits=true&theme=buefy&show_icons=true&count_private=true"/>](https://github.com/aCodeDog/)
-
+ <h3> 🛠 &nbsp;Academic Service</h3>
+   ICCV reviewer,IROS reviewer.
+   
  
  <h3> 🛠 &nbsp;Research Area</h3>
 
