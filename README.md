@@ -14,7 +14,7 @@
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=aCodeDog&include_all_commits=true&theme=buefy&show_icons=true&count_private=true"/>](https://github.com/aCodeDog/)
  <h3> 🛠 &nbsp;Academic Service</h3>
-   ICCV reviewer,IROS reviewer.
+   ICCV, IROS, CoRL,Humanoids reviewer.
    
  
  <h3> 🛠 &nbsp;Research Area</h3>
@@ -53,15 +53,17 @@
 
 - [**Genesis frameworks for legged-robots**](https://github.com/aCodeDog/genesis_legged_gym): A legged robots Framework for Genesis![GitHub stars](https://img.shields.io/github/stars/aCodeDog/genesis_legged_gym?style=social)
 
--  [**Awesome list for loco-manipulation**](https://github.com/aCodeDog/awesome-loco-manipulation):Awesome-loco-manipulation list![GitHub stars](https://img.shields.io/github/stars/aCodeDog/awesome-loco-manipulation?style=social)
+-  [**Awesome list for loco-manipulation**](https://github.com/aCodeDog/awesome-loco-manipulation): Awesome-loco-manipulation list![GitHub stars](https://img.shields.io/github/stars/aCodeDog/awesome-loco-manipulation?style=social)
+
+### locomotion
+
+- [**Vision-Based Locomotion for Legged Robots**](https://acodedog.github.io/OmniPerceptionPages/): Preference aligned diffusion planner for quadrupedal locomotion control (Under Review) ![GitHub stars](https://img.shields.io/github/stars/aCodeDog/OmniPerception?style=social)
+- [**Diffusion Model for Legged Robots**](https://shangjaven.github.io/preference-aligned-diffusion-legged/): Preference aligned diffusion planner for quadrupedal locomotion control (Under Review)
+- [**Wheel-legged-robots-locomotion**](https://www.roboarts.cn/index): MIP-MPC Framework for Wheeled-Legged Robot working on Tough Terrain( ARTS 2023 Poster)
 
 ### Imitation Learning
 
-- [**Imitation Learning for Robotic Arm**](https://teleema.github.io/projects/GLOVER/): GLOVER: Generalizable open-vocabulary affordance reasoning for task-oriented grasping (Under Review)
+- [**VLM for Robotic Arm**](https://teleema.github.io/projects/GLOVER/): GLOVER: Generalizable open-vocabulary affordance reasoning for task-oriented grasping (Under Review)
 - [**Imitation Learning for Robotic Arm**](https://air-discoverse.github.io/): DISCOVERSE: Efficient Robot Simulation in Complex High-Fidelity Environments (Under Review)
 - [**Imitation Learning for Robotic Arm**](https://teleema.github.io/projects/Sigma_Agent/): Contrastive Imitation Learning for Language-guided Multi-Task Robotic Manipulation. (CORL 2024)
 - [**Imitation Learning for Robotic Arm**](https://jiaming-zhou.github.io/projects/HumanRobotAlign/): Mitigating the Human-Robot Domain Discrepancy in Visual Pre-training for Robotic Manipulation (CVPR 2025)
-### locomotion
-
-- [**Diffusion Model for Legged Robots**](https://shangjaven.github.io/preference-aligned-diffusion-legged/): Preference aligned diffusion planner for quadrupedal locomotion control (Under Review)
-- [**Wheel-legged-robots-locomotion**](https://www.roboarts.cn/index): MIP-MPC Framework for Wheeled-Legged Robot working on Tough Terrain( ARTS 2023 Poster)
