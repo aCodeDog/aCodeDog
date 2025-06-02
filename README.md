@@ -57,7 +57,7 @@
 
 ### locomotion
 
-- [**Vision-Based Locomotion for Legged Robots**](https://acodedog.github.io/OmniPerceptionPages/): Preference aligned diffusion planner for quadrupedal locomotion control (Under Review) ![GitHub stars](https://img.shields.io/github/stars/aCodeDog/OmniPerception?style=social)
+- [**Vision-Based Locomotion for Legged Robots**](https://acodedog.github.io/OmniPerceptionPages/): mni-Perception: Omnidirectional Collision Avoidance for Legged Locomotion in Dynamic Environments (Under Review) ![GitHub stars](https://img.shields.io/github/stars/aCodeDog/OmniPerception?style=social)
 - [**Diffusion Model for Legged Robots**](https://shangjaven.github.io/preference-aligned-diffusion-legged/): Preference aligned diffusion planner for quadrupedal locomotion control (Under Review)
 - [**Wheel-legged-robots-locomotion**](https://www.roboarts.cn/index): MIP-MPC Framework for Wheeled-Legged Robot working on Tough Terrain( ARTS 2023 Poster)
 
