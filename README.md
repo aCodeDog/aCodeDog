@@ -58,12 +58,12 @@
 ### locomotion
 
 - [**Vision-Based Locomotion for Legged Robots**](https://acodedog.github.io/OmniPerceptionPages/): Omni-Perception: Omnidirectional Collision Avoidance for Legged Locomotion in Dynamic Environments (Under Review) ![GitHub stars](https://img.shields.io/github/stars/aCodeDog/OmniPerception?style=social)
-- [**Diffusion Model for Legged Robots**](https://shangjaven.github.io/preference-aligned-diffusion-legged/): Preference aligned diffusion planner for quadrupedal locomotion control (Under Review)
+- [**Diffusion Model for Legged Robots**](https://shangjaven.github.io/preference-aligned-diffusion-legged/): Preference aligned diffusion planner for quadrupedal locomotion control (IROS 2025)
 - [**Wheel-legged-robots-locomotion**](https://www.roboarts.cn/index): MIP-MPC Framework for Wheeled-Legged Robot working on Tough Terrain( ARTS 2023 Poster)
 
 ### Imitation Learning
 
 - [**VLM for Robotic Arm**](https://teleema.github.io/projects/GLOVER/): GLOVER: Generalizable open-vocabulary affordance reasoning for task-oriented grasping (Under Review)
-- [**Imitation Learning for Robotic Arm**](https://air-discoverse.github.io/): DISCOVERSE: Efficient Robot Simulation in Complex High-Fidelity Environments (Under Review)
+- [**Imitation Learning for Robotic Arm**](https://air-discoverse.github.io/): DISCOVERSE: Efficient Robot Simulation in Complex High-Fidelity Environments (IROS 2025)
 - [**Imitation Learning for Robotic Arm**](https://teleema.github.io/projects/Sigma_Agent/): Contrastive Imitation Learning for Language-guided Multi-Task Robotic Manipulation. (CORL 2024)
 - [**Imitation Learning for Robotic Arm**](https://jiaming-zhou.github.io/projects/HumanRobotAlign/): Mitigating the Human-Robot Domain Discrepancy in Visual Pre-training for Robotic Manipulation (CVPR 2025)
