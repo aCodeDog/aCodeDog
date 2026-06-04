@@ -35,12 +35,12 @@
   <ol>
     <li><a href="#-about-me">About Me</a></li>
     <li><a href="#-news">News</a></li>
-    <li><a href="#-education">Education</a></li>
     <li><a href="#-selected-publications">Selected Publications</a></li>
     <li><a href="#-research-projects">Research Projects</a></li>
     <li><a href="#-honors--awards">Honors &amp; Awards</a></li>
     <li><a href="#-tech-stack">Tech Stack</a></li>
     <li><a href="#-github-stats">GitHub Stats</a></li>
+    <li><a href="#-education">Education</a></li>
   </ol>
 </details>
 
@@ -66,16 +66,6 @@
 - **2025** — 🎉 Two papers accepted to **CoRL 2025** ([**OmniPerception**](https://acodedog.github.io/OmniPerceptionPages/), Oral & [**GLOVER++**](https://teleema.github.io/projects/GLOVER++/)).
 - **2025** — 🎉 Two papers accepted to **IROS 2025** ([Diffusion Planner](https://shangjaven.github.io/preference-aligned-diffusion-legged/) & [DISCOVERSE](https://air-discoverse.github.io/)).
 - **2025** — 🎉 One paper accepted to **CVPR 2025** on [mitigating human-robot domain discrepancy](https://jiaming-zhou.github.io/projects/HumanRobotAlign/).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🎓 Education
-
-| Degree | Institution | Period |
-| :--- | :--- | :--- |
-| **PhD in Artificial Intelligence** | The Hong Kong University of Science and Technology (Guangzhou) — *Advisor: Junwei Liang* | 2024 – 2027 |
-| **MPhil in Robotics & Autonomous Systems** | The Hong Kong University of Science and Technology (Guangzhou) — *Advisors: Ming Liu, Jun Ma · GPA 3.84* | 2022 – 2024 |
-| **BEng in Automation Engineering** | Southwest Jiaotong University, School of Information Science & Technology | 2017 – 2021 |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -195,5 +185,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aCodeDog&include_all_commits=true&theme=buefy&show_icons=true&count_private=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aCodeDog&layout=compact&theme=buefy&hide=jupyter%20notebook" height="165"/>
 </div>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🎓 Education
+
+| Degree | Institution | Period |
+| :--- | :--- | :--- |
+| **PhD in Artificial Intelligence** | The Hong Kong University of Science and Technology (Guangzhou) — *Advisor: Junwei Liang* | 2024 – 2027 |
+| **MPhil in Robotics & Autonomous Systems** | The Hong Kong University of Science and Technology (Guangzhou) — *Advisors: Ming Liu, Jun Ma · GPA 3.84* | 2022 – 2024 |
+| **BEng in Automation Engineering** | Southwest Jiaotong University, School of Information Science & Technology | 2017 – 2021 |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
