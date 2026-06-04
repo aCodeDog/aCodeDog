@@ -71,38 +71,36 @@
 
 ## 📝 Selected Publications
 
-> `*` denotes equal contribution. **Bold** = first / co-first author.
-
-- **Perceptive Behavior Foundation Model: Adapting Human Motion Priors to Robot-Centric Terrain.**
-  <br/>**Zifan Wang**, et al. &nbsp;|&nbsp; ![Under Review](https://img.shields.io/badge/Under%20Review-grey) &nbsp; [Project Page](https://acodedog.github.io/perceptive-bfm/)
-- **GS-Playground: A High-Throughput Photorealistic Simulator for Vision-Informed Robot Learning.**
-  <br/>Yufei Jia\*, Heng Zhang\*, …, **Zifan Wang**, et al. &nbsp;|&nbsp; ![RSS 2026](https://img.shields.io/badge/RSS%202026-1f7a3d) &nbsp; [Project Page](https://gsplayground.github.io/)
-- **DiT4DiT: Jointly Modeling Video Dynamics and Actions for Generalizable Robot Control.**
-  <br/>Teli Ma, Jia Zheng, **Zifan Wang**, Chunli Jiang, Andy Cui, Junwei Liang, Shuo Yang &nbsp;|&nbsp; ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b) &nbsp; [Project Page](https://dit4dit.github.io/)
-- **UniLab: A Heterogeneous Architecture for Robot RL Beyond GPU-Dominant Paradigms.**
-  <br/>Yufei Jia\*, Zhanxiang Cao\*, …, **Zifan Wang**, et al. &nbsp;|&nbsp; ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b) &nbsp; [Project Page](https://unilabsim.github.io/)
-- **Omni-Perception: Omnidirectional Collision Avoidance for Legged Locomotion in Dynamic Environments.**
-  <br/>**Zifan Wang**, Teli Ma, Yufei Jia, Xun Yang, Jiaming Zhou, Wenlong Ouyang, Qiang Zhang, Junwei Liang &nbsp;|&nbsp; ![CoRL 2025 Oral](https://img.shields.io/badge/CoRL%202025-Oral-1f6feb) &nbsp; [Project Page](https://acodedog.github.io/OmniPerceptionPages/)
-- **MeshMimic: Geometry-Aware Humanoid Motion Learning through 3D Scene Reconstruction.**
-  <br/>Qiang Zhang, Jun Ma, Pei Liu, Siyuan Shi, Zhi Su, **Zifan Wang**, Jiashun Sun, et al. &nbsp;|&nbsp; ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b)
-- **GLOVER++: Unleashing the Potential of Affordance Learning from Human Behaviors for Robotic Manipulation.**
-  <br/>Teli Ma, Jia Zheng, **Zifan Wang**, Ziyao Gao, Jiaming Zhou, Junwei Liang &nbsp;|&nbsp; ![CoRL 2025](https://img.shields.io/badge/CoRL%202025-1f6feb) &nbsp; [Project Page](https://teleema.github.io/projects/GLOVER++/)
-- **Exploring the Limits of Vision-Language-Action Manipulations in Cross-Task Generalization.**
-  <br/>Jiaming Zhou, Ke Ye, Jiayi Liu, Teli Ma, **Zifan Wang**, Ronghe Qiu, Kun-Yu Lin, Zhilin Zhao, Junwei Liang &nbsp;|&nbsp; ![NeurIPS 2025](https://img.shields.io/badge/NeurIPS%202025-8a2be2)
-- **DISCOVERSE: Efficient Robot Simulation in Complex High-Fidelity Environments.**
-  <br/>Yufei Jia, Guangyu Wang, Yuhang Dong, Junzhe Wu, Yuhui Zeng, Haibin Lin, **Zifan Wang**, et al. &nbsp;|&nbsp; ![IROS 2025 Oral](https://img.shields.io/badge/IROS%202025-Oral-ff8c00) &nbsp; [Project Page](https://air-discoverse.github.io/)
-- **Preference Aligned Diffusion Planner for Quadrupedal Locomotion Control.**
-  <br/>Xinyi Yuan, Zhiwei Shang, **Zifan Wang**, Chenkai Wang, Zhao Shan, Meixin Zhu, Chenjia Bai, Xuelong Li, et al. &nbsp;|&nbsp; ![IROS 2025](https://img.shields.io/badge/IROS%202025-ff8c00) &nbsp; [Project Page](https://shangjaven.github.io/preference-aligned-diffusion-legged/)
-- **Arm-Constrained Curriculum Learning for Loco-Manipulation of a Wheel-Legged Robot.**
-  <br/>**Zifan Wang**, Yufei Jia, Lu Shi, Haoyu Wang, Haizhou Zhao, Xueyang Li, Jinni Zhou, Jun Ma, Guyue Zhou &nbsp;|&nbsp; ![IROS 2024 Oral](https://img.shields.io/badge/IROS%202024-Oral-ff8c00) &nbsp; [Code](https://github.com/aCodeDog/legged-robots-manipulation)
-- **End-to-End Humanoid Robot Safe and Comfortable Locomotion Policy.**
-  <br/>**Zifan Wang**, Xun Yang, Jianzhuang Zhao, Jiaming Zhou, Teli Ma, Ziyao Gao, Arash Ajoudani, Junwei Liang &nbsp;|&nbsp; ![arXiv 2025](https://img.shields.io/badge/arXiv%202025-b31b1b)
-- **Mitigating the Human-Robot Domain Discrepancy in Visual Pre-training for Robotic Manipulation.**
-  <br/>Jiaming Zhou, Teli Ma, Kun-Yu Lin, **Zifan Wang**, Ronghe Qiu, Junwei Liang &nbsp;|&nbsp; ![CVPR 2025](https://img.shields.io/badge/CVPR%202025-00629b) &nbsp; [Project Page](https://jiaming-zhou.github.io/projects/HumanRobotAlign/)
-- **GLOVER: Generalizable Open-Vocabulary Affordance Reasoning for Task-Oriented Grasping.**
-  <br/>Teli Ma\*, **Zifan Wang**\*, Jiaming Zhou, Mengmeng Wang, Junwei Liang &nbsp;|&nbsp; ![CoRL 2024 Best Paper](https://img.shields.io/badge/CoRL%202024-GenPriors%20Best%20Paper-gold) &nbsp; [Project Page](https://teleema.github.io/projects/GLOVER/)
-- **Contrastive Imitation Learning for Language-guided Multi-Task Robotic Manipulation.**
-  <br/>Teli Ma, Jiaming Zhou, **Zifan Wang**, Ronghe Qiu, Junwei Liang &nbsp;|&nbsp; ![CoRL 2024](https://img.shields.io/badge/CoRL%202024-1f6feb) &nbsp; [Project Page](https://teleema.github.io/projects/Sigma_Agent/)
+- **Perceptive Behavior Foundation Model: Adapting Human Motion Priors to Robot-Centric Terrain.** &nbsp; ![Under Review](https://img.shields.io/badge/Under%20Review-grey) [![Project Page](https://img.shields.io/badge/Project%20Page-2e7bff?logo=githubpages&logoColor=white)](https://acodedog.github.io/perceptive-bfm/)
+  <br/><sub>**Zifan Wang**, et al.</sub>
+- **GS-Playground: A High-Throughput Photorealistic Simulator for Vision-Informed Robot Learning.** &nbsp; ![RSS 2026](https://img.shields.io/badge/RSS%202026-1f7a3d) [![Project Page](https://img.shields.io/badge/Project%20Page-2e7bff?logo=githubpages&logoColor=white)](https://gsplayground.github.io/)
+  <br/><sub>Yufei Jia\*, Heng Zhang\*, …, **Zifan Wang**, et al.</sub>
+- **DiT4DiT: Jointly Modeling Video Dynamics and Actions for Generalizable Robot Control.** &nbsp; ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b) [![Project Page](https://img.shields.io/badge/Project%20Page-2e7bff?logo=githubpages&logoColor=white)](https://dit4dit.github.io/)
+  <br/><sub>Teli Ma, Jia Zheng, **Zifan Wang**, Chunli Jiang, Andy Cui, Junwei Liang, Shuo Yang</sub>
+- **UniLab: A Heterogeneous Architecture for Robot RL Beyond GPU-Dominant Paradigms.** &nbsp; ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b) [![Project Page](https://img.shields.io/badge/Project%20Page-2e7bff?logo=githubpages&logoColor=white)](https://unilabsim.github.io/)
+  <br/><sub>Yufei Jia\*, Zhanxiang Cao\*, …, **Zifan Wang**, et al.</sub>
+- **Omni-Perception: Omnidirectional Collision Avoidance for Legged Locomotion in Dynamic Environments.** &nbsp; ![CoRL 2025 Oral](https://img.shields.io/badge/CoRL%202025-Oral-1f6feb) [![Project Page](https://img.shields.io/badge/Project%20Page-2e7bff?logo=githubpages&logoColor=white)](https://acodedog.github.io/OmniPerceptionPages/)
+  <br/><sub>**Zifan Wang**, Teli Ma, Yufei Jia, Xun Yang, Jiaming Zhou, Wenlong Ouyang, Qiang Zhang, Junwei Liang</sub>
+- **MeshMimic: Geometry-Aware Humanoid Motion Learning through 3D Scene Reconstruction.** &nbsp; ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b)
+  <br/><sub>Qiang Zhang, Jun Ma, Pei Liu, Siyuan Shi, Zhi Su, **Zifan Wang**, Jiashun Sun, et al.</sub>
+- **GLOVER++: Unleashing the Potential of Affordance Learning from Human Behaviors for Robotic Manipulation.** &nbsp; ![CoRL 2025](https://img.shields.io/badge/CoRL%202025-1f6feb) [![Project Page](https://img.shields.io/badge/Project%20Page-2e7bff?logo=githubpages&logoColor=white)](https://teleema.github.io/projects/GLOVER++/)
+  <br/><sub>Teli Ma, Jia Zheng, **Zifan Wang**, Ziyao Gao, Jiaming Zhou, Junwei Liang</sub>
+- **Exploring the Limits of Vision-Language-Action Manipulations in Cross-Task Generalization.** &nbsp; ![NeurIPS 2025](https://img.shields.io/badge/NeurIPS%202025-8a2be2)
+  <br/><sub>Jiaming Zhou, Ke Ye, Jiayi Liu, Teli Ma, **Zifan Wang**, Ronghe Qiu, Kun-Yu Lin, Zhilin Zhao, Junwei Liang</sub>
+- **DISCOVERSE: Efficient Robot Simulation in Complex High-Fidelity Environments.** &nbsp; ![IROS 2025 Oral](https://img.shields.io/badge/IROS%202025-Oral-ff8c00) [![Project Page](https://img.shields.io/badge/Project%20Page-2e7bff?logo=githubpages&logoColor=white)](https://air-discoverse.github.io/)
+  <br/><sub>Yufei Jia, Guangyu Wang, Yuhang Dong, Junzhe Wu, Yuhui Zeng, Haibin Lin, **Zifan Wang**, et al.</sub>
+- **Preference Aligned Diffusion Planner for Quadrupedal Locomotion Control.** &nbsp; ![IROS 2025](https://img.shields.io/badge/IROS%202025-ff8c00) [![Project Page](https://img.shields.io/badge/Project%20Page-2e7bff?logo=githubpages&logoColor=white)](https://shangjaven.github.io/preference-aligned-diffusion-legged/)
+  <br/><sub>Xinyi Yuan, Zhiwei Shang, **Zifan Wang**, Chenkai Wang, Zhao Shan, Meixin Zhu, Chenjia Bai, Xuelong Li, et al.</sub>
+- **Arm-Constrained Curriculum Learning for Loco-Manipulation of a Wheel-Legged Robot.** &nbsp; ![IROS 2024 Oral](https://img.shields.io/badge/IROS%202024-Oral-ff8c00) [![Code](https://img.shields.io/badge/Code-181717?logo=github&logoColor=white)](https://github.com/aCodeDog/legged-robots-manipulation)
+  <br/><sub>**Zifan Wang**, Yufei Jia, Lu Shi, Haoyu Wang, Haizhou Zhao, Xueyang Li, Jinni Zhou, Jun Ma, Guyue Zhou</sub>
+- **End-to-End Humanoid Robot Safe and Comfortable Locomotion Policy.** &nbsp; ![arXiv 2025](https://img.shields.io/badge/arXiv%202025-b31b1b)
+  <br/><sub>**Zifan Wang**, Xun Yang, Jianzhuang Zhao, Jiaming Zhou, Teli Ma, Ziyao Gao, Arash Ajoudani, Junwei Liang</sub>
+- **Mitigating the Human-Robot Domain Discrepancy in Visual Pre-training for Robotic Manipulation.** &nbsp; ![CVPR 2025](https://img.shields.io/badge/CVPR%202025-00629b) [![Project Page](https://img.shields.io/badge/Project%20Page-2e7bff?logo=githubpages&logoColor=white)](https://jiaming-zhou.github.io/projects/HumanRobotAlign/)
+  <br/><sub>Jiaming Zhou, Teli Ma, Kun-Yu Lin, **Zifan Wang**, Ronghe Qiu, Junwei Liang</sub>
+- **GLOVER: Generalizable Open-Vocabulary Affordance Reasoning for Task-Oriented Grasping.** &nbsp; ![CoRL 2024 Best Paper](https://img.shields.io/badge/CoRL%202024-GenPriors%20Best%20Paper-gold) [![Project Page](https://img.shields.io/badge/Project%20Page-2e7bff?logo=githubpages&logoColor=white)](https://teleema.github.io/projects/GLOVER/)
+  <br/><sub>Teli Ma\*, **Zifan Wang**\*, Jiaming Zhou, Mengmeng Wang, Junwei Liang</sub>
+- **Contrastive Imitation Learning for Language-guided Multi-Task Robotic Manipulation.** &nbsp; ![CoRL 2024](https://img.shields.io/badge/CoRL%202024-1f6feb) [![Project Page](https://img.shields.io/badge/Project%20Page-2e7bff?logo=githubpages&logoColor=white)](https://teleema.github.io/projects/Sigma_Agent/)
+  <br/><sub>Teli Ma, Jiaming Zhou, **Zifan Wang**, Ronghe Qiu, Junwei Liang</sub>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
