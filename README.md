@@ -26,7 +26,7 @@
 
 ## 📰 News
 
-- **2026** — New project: [**Perceptive Behavior Foundation Model**](https://acodedog.github.io/perceptive-bfm-page/) — adapting human motion priors to robot-centric terrain *(under review)*.
+- **2026** — New project: [**Perceptive Behavior Foundation Model**](https://acodedog.github.io/perceptive-bfm/) — adapting human motion priors to robot-centric terrain *(under review)*.
 - **2026** — 🎉 One paper accepted to **RSS 2026**: [**GS-Playground**](https://gsplayground.github.io/), a high-throughput photorealistic simulator for vision-informed robot learning.
 - **2026** — New preprint: [**UniLab**](https://unilabsim.github.io/) — a heterogeneous architecture for robot RL beyond GPU-dominant paradigms.
 - **2025** — New preprint: [**DiT4DiT**](https://dit4dit.github.io/) — jointly modeling video dynamics and actions for generalizable robot control.
@@ -44,7 +44,7 @@
 
 <br/>
 
-- [**Perceptive Behavior Foundation Model**](https://acodedog.github.io/perceptive-bfm-page/) — Adapting human motion priors to robot-centric terrain *(Under Review)*
+- [**Perceptive Behavior Foundation Model**](https://acodedog.github.io/perceptive-bfm/) — Adapting human motion priors to robot-centric terrain *(Under Review)*
 - [**OmniPerception**](https://acodedog.github.io/OmniPerceptionPages/) — Omnidirectional collision avoidance for legged locomotion **(CoRL 2025, Oral)** ![GitHub stars](https://img.shields.io/github/stars/aCodeDog/OmniPerception?style=social)
 - [**UniLab**](https://unilabsim.github.io/) — Heterogeneous architecture for robot RL beyond GPU-dominant paradigms *(Preprint)*
 - [**Diffusion Planner**](https://shangjaven.github.io/preference-aligned-diffusion-legged/) — Preference-aligned diffusion planner for quadrupedal locomotion **(IROS 2025)**
