@@ -82,7 +82,7 @@
 - [**Omni-Perception: Omnidirectional Collision Avoidance for Legged Locomotion in Dynamic Environments.**](https://acodedog.github.io/OmniPerceptionPages/) &nbsp; ![CoRL 2025 Oral](https://img.shields.io/badge/CoRL%202025-Oral-1f6feb)
   <br/><sub>**Zifan Wang**, Teli Ma, Yufei Jia, Xun Yang, Jiaming Zhou, Wenlong Ouyang, Qiang Zhang, Junwei Liang</sub>
 - **MeshMimic: Geometry-Aware Humanoid Motion Learning through 3D Scene Reconstruction.** &nbsp; ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b)
-  <br/><sub>Qiang Zhang, Jun Ma, Pei Liu, Siyuan Shi, Zhi Su, **Zifan Wang**, Jiashun Sun, et al.</sub>
+  <br/><sub>Qiang Zhang, Jiahao Ma, Peiran Liu, Shuai Shi, Zeran Su, **Zifan Wang**, Jingkai Sun, et al.</sub>
 - [**GLOVER++: Unleashing the Potential of Affordance Learning from Human Behaviors for Robotic Manipulation.**](https://teleema.github.io/projects/GLOVER++/) &nbsp; ![CoRL 2025](https://img.shields.io/badge/CoRL%202025-1f6feb)
   <br/><sub>Teli Ma, Jia Zheng, **Zifan Wang**, Ziyao Gao, Jiaming Zhou, Junwei Liang</sub>
 - **Exploring the Limits of Vision-Language-Action Manipulations in Cross-Task Generalization.** &nbsp; ![NeurIPS 2025](https://img.shields.io/badge/NeurIPS%202025-8a2be2)
