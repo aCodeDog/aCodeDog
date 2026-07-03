@@ -59,9 +59,9 @@
 ## 📰 News
 
 - **Jun 2026** — New project: [**Perceptive Behavior Foundation Model**](https://acodedog.github.io/perceptive-bfm/) — adapting human motion priors to robot-centric terrain *(under review)*.
-- **2026** — 🎉 One paper accepted to **RSS 2026**: [**GS-Playground**](https://gsplayground.github.io/), a high-throughput photorealistic simulator for vision-informed robot learning.
-- **2026** — New preprint: [**UniLab**](https://unilabsim.github.io/) — a heterogeneous architecture for robot RL beyond GPU-dominant paradigms.
-- **2026** — New preprint: [**DiT4DiT**](https://dit4dit.github.io/) — jointly modeling video dynamics and actions for generalizable robot control.
+- **2026** — 🎉 One paper accepted to **RSS 2026**: [**GS-Playground**](https://gsplayground.github.io/) ([Code](https://github.com/discoverse-dev/gs_playground)), a high-throughput photorealistic simulator for vision-informed robot learning.
+- **2026** — New preprint: [**UniLab**](https://unilabsim.github.io/) ([Code](https://github.com/unilabsim/UniLab)) — a heterogeneous architecture for robot RL beyond GPU-dominant paradigms.
+- **2026** — New preprint: [**DiT4DiT**](https://dit4dit.github.io/) ([Code](https://github.com/Mondo-Robotics/DiT4DiT)) — jointly modeling video dynamics and actions for generalizable robot control.
 - **2025** — 🎉 One paper accepted to **NeurIPS 2025** on vision-language-action cross-task generalization.
 - **2025** — 🎉 Two papers accepted to **CoRL 2025** ([**OmniPerception**](https://acodedog.github.io/OmniPerceptionPages/), Oral & [**GLOVER++**](https://teleema.github.io/projects/GLOVER++/)).
 - **2025** — 🎉 Two papers accepted to **IROS 2025** ([Diffusion Planner](https://shangjaven.github.io/preference-aligned-diffusion-legged/) & [DISCOVERSE](https://air-discoverse.github.io/)).
@@ -73,11 +73,11 @@
 
 - [**Perceptive Behavior Foundation Model: Adapting Human Motion Priors to Robot-Centric Terrain.**](https://acodedog.github.io/perceptive-bfm/) &nbsp; ![Under Review](https://img.shields.io/badge/Under%20Review-grey)
   <br/><sub>**Zifan Wang**, et al.</sub>
-- [**GS-Playground: A High-Throughput Photorealistic Simulator for Vision-Informed Robot Learning.**](https://gsplayground.github.io/) &nbsp; ![RSS 2026](https://img.shields.io/badge/RSS%202026-1f7a3d)
+- [**GS-Playground: A High-Throughput Photorealistic Simulator for Vision-Informed Robot Learning.**](https://gsplayground.github.io/) &nbsp; ![RSS 2026](https://img.shields.io/badge/RSS%202026-1f7a3d) &nbsp; [Code](https://github.com/discoverse-dev/gs_playground)
   <br/><sub>Yufei Jia\*, Heng Zhang\*, …, **Zifan Wang**, et al.</sub>
-- [**DiT4DiT: Jointly Modeling Video Dynamics and Actions for Generalizable Robot Control.**](https://dit4dit.github.io/) &nbsp; ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b)
+- [**DiT4DiT: Jointly Modeling Video Dynamics and Actions for Generalizable Robot Control.**](https://dit4dit.github.io/) &nbsp; ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b) &nbsp; [Code](https://github.com/Mondo-Robotics/DiT4DiT)
   <br/><sub>Teli Ma, Jia Zheng, **Zifan Wang**, Chunli Jiang, Andy Cui, Junwei Liang, Shuo Yang</sub>
-- [**UniLab: A Heterogeneous Architecture for Robot RL Beyond GPU-Dominant Paradigms.**](https://unilabsim.github.io/) &nbsp; ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b)
+- [**UniLab: A Heterogeneous Architecture for Robot RL Beyond GPU-Dominant Paradigms.**](https://unilabsim.github.io/) &nbsp; ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b) &nbsp; [Code](https://github.com/unilabsim/UniLab)
   <br/><sub>Yufei Jia\*, Zhanxiang Cao\*, …, **Zifan Wang**, et al.</sub>
 - [**Omni-Perception: Omnidirectional Collision Avoidance for Legged Locomotion in Dynamic Environments.**](https://acodedog.github.io/OmniPerceptionPages/) &nbsp; ![CoRL 2025 Oral](https://img.shields.io/badge/CoRL%202025-Oral-1f6feb)
   <br/><sub>**Zifan Wang**, Teli Ma, Yufei Jia, Xun Yang, Jiaming Zhou, Wenlong Ouyang, Qiang Zhang, Junwei Liang</sub>
@@ -113,7 +113,7 @@
 
 - [**Perceptive Behavior Foundation Model**](https://acodedog.github.io/perceptive-bfm/) — Adapting human motion priors to robot-centric terrain *(Under Review)*
 - [**OmniPerception**](https://acodedog.github.io/OmniPerceptionPages/) — Omnidirectional collision avoidance for legged locomotion **(CoRL 2025, Oral)** ![GitHub stars](https://img.shields.io/github/stars/aCodeDog/OmniPerception?style=social)
-- [**UniLab**](https://unilabsim.github.io/) — Heterogeneous architecture for robot RL beyond GPU-dominant paradigms *(Preprint)*
+- [**UniLab**](https://unilabsim.github.io/) ([Code](https://github.com/unilabsim/UniLab)) — Heterogeneous architecture for robot RL beyond GPU-dominant paradigms *(Preprint)* ![GitHub stars](https://img.shields.io/github/stars/unilabsim/UniLab?style=social)
 - [**Diffusion Planner**](https://shangjaven.github.io/preference-aligned-diffusion-legged/) — Preference-aligned diffusion planner for quadrupedal locomotion **(IROS 2025)**
 - [**Wheel-Legged MPC**](https://www.roboarts.cn/index) — MIP-MPC framework for wheeled-legged robots on tough terrain **(ARTS 2023)**
 
@@ -135,8 +135,8 @@
 
 <br/>
 
-- [**GS-Playground**](https://gsplayground.github.io/) — High-throughput photorealistic simulator for vision-informed robot learning **(RSS 2026)**
-- [**DiT4DiT**](https://dit4dit.github.io/) — Jointly modeling video dynamics and actions for generalizable robot control *(Preprint)*
+- [**GS-Playground**](https://gsplayground.github.io/) ([Code](https://github.com/discoverse-dev/gs_playground)) — High-throughput photorealistic simulator for vision-informed robot learning **(RSS 2026)** ![GitHub stars](https://img.shields.io/github/stars/discoverse-dev/gs_playground?style=social)
+- [**DiT4DiT**](https://dit4dit.github.io/) ([Code](https://github.com/Mondo-Robotics/DiT4DiT)) — Jointly modeling video dynamics and actions for generalizable robot control *(Preprint)* ![GitHub stars](https://img.shields.io/github/stars/Mondo-Robotics/DiT4DiT?style=social)
 - [**GLOVER++**](https://teleema.github.io/projects/GLOVER++/) — Affordance learning from human behaviors for robotic manipulation **(CoRL 2025)**
 - [**GLOVER**](https://teleema.github.io/projects/GLOVER/) — Generalizable open-vocabulary affordance reasoning for task-oriented grasping **(CoRL 2024, GenPriors Best Paper)**
 - [**DISCOVERSE**](https://air-discoverse.github.io/) — Efficient robot simulation in complex high-fidelity environments **(IROS 2025, Oral)**
@@ -178,6 +178,20 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📊 GitHub Stats
+
+<!-- FEATURED-CODE-STATS:START -->
+**Featured code stars:** **2,892** across **7** repositories, plus **225** forks. Updated 2026-07-03 UTC.
+
+| Project | Page | Code | Stars |
+| :--- | :--- | :--- | ---: |
+| UniLab | [Project Page](https://unilabsim.github.io/) | [unilabsim/UniLab](https://github.com/unilabsim/UniLab) | 819 |
+| GS-Playground | [Project Page](https://gsplayground.github.io/) | [discoverse-dev/gs_playground](https://github.com/discoverse-dev/gs_playground) | 426 |
+| DiT4DiT | [Project Page](https://dit4dit.github.io/) | [Mondo-Robotics/DiT4DiT](https://github.com/Mondo-Robotics/DiT4DiT) | 382 |
+| OmniPerception | [Project Page](https://acodedog.github.io/OmniPerceptionPages/) | [aCodeDog/OmniPerception](https://github.com/aCodeDog/OmniPerception) | 507 |
+| Legged Robots Manipulation | - | [aCodeDog/legged-robots-manipulation](https://github.com/aCodeDog/legged-robots-manipulation) | 396 |
+| Awesome Loco-Manipulation | - | [aCodeDog/awesome-loco-manipulation](https://github.com/aCodeDog/awesome-loco-manipulation) | 298 |
+| Genesis Legged Gym | - | [aCodeDog/genesis_legged_gym](https://github.com/aCodeDog/genesis_legged_gym) | 64 |
+<!-- FEATURED-CODE-STATS:END -->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aCodeDog&include_all_commits=true&theme=buefy&show_icons=true&count_private=true" height="165"/>
