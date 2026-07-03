@@ -1,0 +1,42 @@
+name: Update Featured Code Stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "35 8 * * 1"
+  push:
+    paths:
+      - "scripts/update_featured_code_stats.rb"
+      - ".github/workflows/update_featured_code_stats.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.2"
+
+      - name: Update featured code stats visualization
+        run: ruby scripts/update_featured_code_stats.rb
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit stats update
+        run: |
+          if git diff --quiet README.md assets/featured-code-stats.svg; then
+            echo "Featured code stats are already up to date."
+            exit 0
+          fi
+
+          git config user.name "${GITHUB_ACTOR}"
+          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          git add README.md assets/featured-code-stats.svg
+          git commit -m "Update featured code stats visualization"
+          git push

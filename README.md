@@ -180,17 +180,9 @@
 ## 📊 GitHub Stats
 
 <!-- FEATURED-CODE-STATS:START -->
-**Featured code stars:** **2,892** across **7** repositories, plus **225** forks. Updated 2026-07-03 UTC.
-
-| Project | Page | Code | Stars |
-| :--- | :--- | :--- | ---: |
-| UniLab | [Project Page](https://unilabsim.github.io/) | [unilabsim/UniLab](https://github.com/unilabsim/UniLab) | 819 |
-| GS-Playground | [Project Page](https://gsplayground.github.io/) | [discoverse-dev/gs_playground](https://github.com/discoverse-dev/gs_playground) | 426 |
-| DiT4DiT | [Project Page](https://dit4dit.github.io/) | [Mondo-Robotics/DiT4DiT](https://github.com/Mondo-Robotics/DiT4DiT) | 382 |
-| OmniPerception | [Project Page](https://acodedog.github.io/OmniPerceptionPages/) | [aCodeDog/OmniPerception](https://github.com/aCodeDog/OmniPerception) | 507 |
-| Legged Robots Manipulation | - | [aCodeDog/legged-robots-manipulation](https://github.com/aCodeDog/legged-robots-manipulation) | 396 |
-| Awesome Loco-Manipulation | - | [aCodeDog/awesome-loco-manipulation](https://github.com/aCodeDog/awesome-loco-manipulation) | 298 |
-| Genesis Legged Gym | - | [aCodeDog/genesis_legged_gym](https://github.com/aCodeDog/genesis_legged_gym) | 64 |
+<div align="center">
+  <img src="./assets/featured-code-stats.svg" alt="Featured code GitHub stats visualization" width="100%"/>
+</div>
 <!-- FEATURED-CODE-STATS:END -->
 
 <div align="center">
