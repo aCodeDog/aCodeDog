@@ -3,7 +3,7 @@ name: Update Featured Code Stats
 on:
   workflow_dispatch:
   schedule:
-    - cron: "35 8 * * 1"
+    - cron: "35 8 * * *"
   push:
     paths:
       - "scripts/update_featured_code_stats.rb"
