@@ -42,7 +42,7 @@
     <circle cx="140" cy="116" r="92" fill="none" stroke="#E8EEF7" stroke-width="18"/>
     <circle cx="140" cy="116" r="92" fill="none" stroke="#E85D75" stroke-width="18" stroke-linecap="round" stroke-dasharray="439 578" transform="rotate(-90 140 116)"/>
     <circle cx="140" cy="116" r="64" fill="none" stroke="#17B890" stroke-width="10" stroke-linecap="round" stroke-dasharray="270 578" transform="rotate(-32 140 116)"/>
-    <text x="140" y="105" class="metric" text-anchor="middle">2,892</text>
+    <text x="140" y="105" class="metric" text-anchor="middle">2,893</text>
     <text x="140" y="132" class="label" text-anchor="middle">tracked stars</text>
 
     <g transform="translate(28 210)">
@@ -111,10 +111,10 @@
   <text x="0" y="0" class="repo-title">DiT4DiT</text>
   <text x="0" y="18" class="repo-meta">Mondo-Robotics/DiT4DiT / Robot Control</text>
   <rect x="0" y="26" width="380" height="11" rx="5.5" fill="#E9EEF7"/>
-  <rect x="0" y="26" width="177" height="11" rx="5.5" fill="#8B5CF6"/>
-  <circle cx="177" cy="31.5" r="7" fill="#8B5CF6" opacity="0.2"/>
-  <circle cx="177" cy="31.5" r="3.5" fill="#8B5CF6"/>
-  <text x="468" y="7" class="repo-stars">382</text>
+  <rect x="0" y="26" width="178" height="11" rx="5.5" fill="#8B5CF6"/>
+  <circle cx="178" cy="31.5" r="7" fill="#8B5CF6" opacity="0.2"/>
+  <circle cx="178" cy="31.5" r="3.5" fill="#8B5CF6"/>
+  <text x="468" y="7" class="repo-stars">383</text>
   <text x="468" y="25" class="repo-forks">23 forks</text>
 </g>
 
@@ -143,7 +143,7 @@
 
   <g transform="translate(70 582)">
     <rect width="820" height="1" fill="#E4EAF4"/>
-    <text x="0" y="28" class="subtitle">Updated 2026-07-03 UTC from the GitHub API.</text>
+    <text x="0" y="28" class="subtitle">Updated 2026-07-04 UTC from the GitHub API.</text>
     <text x="820" y="28" class="subtitle" text-anchor="end">Robot learning code portfolio</text>
   </g>
 </svg>
