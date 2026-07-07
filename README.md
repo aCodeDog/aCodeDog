@@ -58,7 +58,7 @@
 
 ## 📰 News
 
-- **Jun 2026** — New project: [**Perceptive Behavior Foundation Model**](https://acodedog.github.io/perceptive-bfm/) — adapting human motion priors to robot-centric terrain *(under review)*.
+- **Jun 2026** — New project: [**Perceptive Behavior Foundation Model**](https://acodedog.github.io/perceptive-bfm/) ([Code](https://github.com/Mondo-Robotics/PMT)) — adapting human motion priors to robot-centric terrain *(under review)*.
 - **2026** — 🎉 One paper accepted to **RSS 2026**: [**GS-Playground**](https://gsplayground.github.io/) ([Code](https://github.com/discoverse-dev/gs_playground)), a high-throughput photorealistic simulator for vision-informed robot learning.
 - **2026** — New preprint: [**UniLab**](https://unilabsim.github.io/) ([Code](https://github.com/unilabsim/UniLab)) — a heterogeneous architecture for robot RL beyond GPU-dominant paradigms.
 - **2026** — New preprint: [**DiT4DiT**](https://dit4dit.github.io/) ([Code](https://github.com/Mondo-Robotics/DiT4DiT)) — jointly modeling video dynamics and actions for generalizable robot control.
@@ -71,7 +71,7 @@
 
 ## 📝 Selected Publications
 
-- [**Perceptive Behavior Foundation Model: Adapting Human Motion Priors to Robot-Centric Terrain.**](https://acodedog.github.io/perceptive-bfm/) &nbsp; ![Under Review](https://img.shields.io/badge/Under%20Review-grey)
+- [**Perceptive Behavior Foundation Model: Adapting Human Motion Priors to Robot-Centric Terrain.**](https://acodedog.github.io/perceptive-bfm/) &nbsp; ![Under Review](https://img.shields.io/badge/Under%20Review-grey) &nbsp; [Code](https://github.com/Mondo-Robotics/PMT)
   <br/><sub>**Zifan Wang**, et al.</sub>
 - [**GS-Playground: A High-Throughput Photorealistic Simulator for Vision-Informed Robot Learning.**](https://gsplayground.github.io/) &nbsp; ![RSS 2026](https://img.shields.io/badge/RSS%202026-1f7a3d) &nbsp; [Code](https://github.com/discoverse-dev/gs_playground)
   <br/><sub>Yufei Jia\*, Heng Zhang\*, …, **Zifan Wang**, et al.</sub>
@@ -111,7 +111,7 @@
 
 <br/>
 
-- [**Perceptive Behavior Foundation Model**](https://acodedog.github.io/perceptive-bfm/) — Adapting human motion priors to robot-centric terrain *(Under Review)*
+- [**Perceptive Behavior Foundation Model**](https://acodedog.github.io/perceptive-bfm/) ([Code](https://github.com/Mondo-Robotics/PMT)) — Adapting human motion priors to robot-centric terrain *(Under Review)* ![GitHub stars](https://img.shields.io/github/stars/Mondo-Robotics/PMT?style=social)
 - [**OmniPerception**](https://acodedog.github.io/OmniPerceptionPages/) — Omnidirectional collision avoidance for legged locomotion **(CoRL 2025, Oral)** ![GitHub stars](https://img.shields.io/github/stars/aCodeDog/OmniPerception?style=social)
 - [**UniLab**](https://unilabsim.github.io/) ([Code](https://github.com/unilabsim/UniLab)) — Heterogeneous architecture for robot RL beyond GPU-dominant paradigms *(Preprint)* ![GitHub stars](https://img.shields.io/github/stars/unilabsim/UniLab?style=social)
 - [**Diffusion Planner**](https://shangjaven.github.io/preference-aligned-diffusion-legged/) — Preference-aligned diffusion planner for quadrupedal locomotion **(IROS 2025)**

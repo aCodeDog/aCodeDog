@@ -20,6 +20,13 @@ END_MARKER = "<!-- FEATURED-CODE-STATS:END -->"
 
 REPOS = [
   {
+    title: "PMT",
+    repo: "Mondo-Robotics/PMT",
+    page: "https://acodedog.github.io/perceptive-bfm/",
+    domain: "Behavior Foundation Model",
+    color: "#D946EF"
+  },
+  {
     title: "UniLab",
     repo: "unilabsim/UniLab",
     page: "https://unilabsim.github.io/",
@@ -142,11 +149,11 @@ arc = (circumference * 0.76).round
 FileUtils.mkdir_p(File.dirname(SVG_PATH)) unless Dir.exist?(File.dirname(SVG_PATH))
 
 svg = <<~SVG
-  <svg width="960" height="650" viewBox="0 0 960 650" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <svg width="960" height="720" viewBox="0 0 960 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
     <title id="title">Featured code GitHub stats for Zifan Wang</title>
     <desc id="desc">A robotics dashboard visualizing stars and forks across featured repositories.</desc>
     <defs>
-      <linearGradient id="bg" x1="0" y1="0" x2="960" y2="560" gradientUnits="userSpaceOnUse">
+      <linearGradient id="bg" x1="0" y1="0" x2="960" y2="720" gradientUnits="userSpaceOnUse">
         <stop offset="0" stop-color="#FFFFFF"/>
         <stop offset="0.48" stop-color="#F8FBFF"/>
         <stop offset="1" stop-color="#FFF7F3"/>
@@ -173,9 +180,9 @@ svg = <<~SVG
       </style>
     </defs>
 
-    <rect width="960" height="650" rx="24" fill="url(#bg)"/>
-    <rect x="30" y="28" width="900" height="594" rx="22" fill="#FFFFFF" filter="url(#softShadow)"/>
-    <rect x="31" y="29" width="898" height="592" rx="21" stroke="#E4EAF4"/>
+    <rect width="960" height="720" rx="24" fill="url(#bg)"/>
+    <rect x="30" y="28" width="900" height="664" rx="22" fill="#FFFFFF" filter="url(#softShadow)"/>
+    <rect x="31" y="29" width="898" height="662" rx="21" stroke="#E4EAF4"/>
 
     <text x="70" y="82" class="label">FEATURED CODE SIGNAL</text>
     <text x="70" y="124" class="title">Robotics GitHub Dashboard</text>
@@ -209,7 +216,7 @@ svg = <<~SVG
     <text x="398" y="192" class="label">REPOSITORY STAR DISTRIBUTION</text>
     #{stats.each_with_index.map { |repo, index| row_svg(repo, index, max_stars, bar_width) }.join("\n")}
 
-    <g transform="translate(70 582)">
+    <g transform="translate(70 652)">
       <rect width="820" height="1" fill="#E4EAF4"/>
       <text x="0" y="28" class="subtitle">Updated #{xml(updated_at)} UTC from the GitHub API.</text>
       <text x="820" y="28" class="subtitle" text-anchor="end">Robot learning code portfolio</text>
