@@ -42,7 +42,7 @@
     <circle cx="140" cy="116" r="92" fill="none" stroke="#E8EEF7" stroke-width="18"/>
     <circle cx="140" cy="116" r="92" fill="none" stroke="#E85D75" stroke-width="18" stroke-linecap="round" stroke-dasharray="439 578" transform="rotate(-90 140 116)"/>
     <circle cx="140" cy="116" r="64" fill="none" stroke="#17B890" stroke-width="10" stroke-linecap="round" stroke-dasharray="270 578" transform="rotate(-32 140 116)"/>
-    <text x="140" y="105" class="metric" text-anchor="middle">3,123</text>
+    <text x="140" y="105" class="metric" text-anchor="middle">3,142</text>
     <text x="140" y="132" class="label" text-anchor="middle">tracked stars</text>
 
     <g transform="translate(28 210)">
@@ -52,12 +52,12 @@
     </g>
     <g transform="translate(106 210)">
       <rect width="72" height="44" rx="12" fill="#FFFFFF" stroke="#E4EAF4"/>
-      <text x="36" y="21" class="metric-small" text-anchor="middle">249</text>
+      <text x="36" y="21" class="metric-small" text-anchor="middle">251</text>
       <text x="36" y="36" class="label" text-anchor="middle">forks</text>
     </g>
     <g transform="translate(190 210)">
       <rect width="62" height="44" rx="12" fill="#FFFFFF" stroke="#E4EAF4"/>
-      <text x="31" y="21" class="metric-small" text-anchor="middle">839</text>
+      <text x="31" y="21" class="metric-small" text-anchor="middle">841</text>
       <text x="31" y="36" class="label" text-anchor="middle">top</text>
     </g>
   </g>
@@ -70,7 +70,7 @@
   <rect x="0" y="26" width="380" height="11" rx="5.5" fill="#17B890"/>
   <circle cx="380" cy="31.5" r="7" fill="#17B890" opacity="0.2"/>
   <circle cx="380" cy="31.5" r="3.5" fill="#17B890"/>
-  <text x="468" y="7" class="repo-stars">839</text>
+  <text x="468" y="7" class="repo-stars">841</text>
   <text x="468" y="25" class="repo-forks">90 forks</text>
 </g>
 
@@ -78,9 +78,9 @@
   <text x="0" y="0" class="repo-title">OmniPerception</text>
   <text x="0" y="18" class="repo-meta">aCodeDog/OmniPerception / Legged Perception</text>
   <rect x="0" y="26" width="380" height="11" rx="5.5" fill="#E9EEF7"/>
-  <rect x="0" y="26" width="233" height="11" rx="5.5" fill="#2F80ED"/>
-  <circle cx="233" cy="31.5" r="7" fill="#2F80ED" opacity="0.2"/>
-  <circle cx="233" cy="31.5" r="3.5" fill="#2F80ED"/>
+  <rect x="0" y="26" width="232" height="11" rx="5.5" fill="#2F80ED"/>
+  <circle cx="232" cy="31.5" r="7" fill="#2F80ED" opacity="0.2"/>
+  <circle cx="232" cy="31.5" r="3.5" fill="#2F80ED"/>
   <text x="468" y="7" class="repo-stars">514</text>
   <text x="468" y="25" class="repo-forks">40 forks</text>
 </g>
@@ -100,9 +100,9 @@
   <text x="0" y="0" class="repo-title">Legged Robots Manipulation</text>
   <text x="0" y="18" class="repo-meta">aCodeDog/legged-robots-manipulation / Loco-Manipulation</text>
   <rect x="0" y="26" width="380" height="11" rx="5.5" fill="#E9EEF7"/>
-  <rect x="0" y="26" width="182" height="11" rx="5.5" fill="#E85D75"/>
-  <circle cx="182" cy="31.5" r="7" fill="#E85D75" opacity="0.2"/>
-  <circle cx="182" cy="31.5" r="3.5" fill="#E85D75"/>
+  <rect x="0" y="26" width="181" height="11" rx="5.5" fill="#E85D75"/>
+  <circle cx="181" cy="31.5" r="7" fill="#E85D75" opacity="0.2"/>
+  <circle cx="181" cy="31.5" r="3.5" fill="#E85D75"/>
   <text x="468" y="7" class="repo-stars">401</text>
   <text x="468" y="25" class="repo-forks">40 forks</text>
 </g>
@@ -114,18 +114,18 @@
   <rect x="0" y="26" width="181" height="11" rx="5.5" fill="#8B5CF6"/>
   <circle cx="181" cy="31.5" r="7" fill="#8B5CF6" opacity="0.2"/>
   <circle cx="181" cy="31.5" r="3.5" fill="#8B5CF6"/>
-  <text x="468" y="7" class="repo-stars">399</text>
-  <text x="468" y="25" class="repo-forks">28 forks</text>
+  <text x="468" y="7" class="repo-stars">400</text>
+  <text x="468" y="25" class="repo-forks">29 forks</text>
 </g>
 
 <g transform="translate(398 476)">
   <text x="0" y="0" class="repo-title">Awesome Loco-Manipulation</text>
   <text x="0" y="18" class="repo-meta">aCodeDog/awesome-loco-manipulation / Reading List</text>
   <rect x="0" y="26" width="380" height="11" rx="5.5" fill="#E9EEF7"/>
-  <rect x="0" y="26" width="137" height="11" rx="5.5" fill="#06B6D4"/>
-  <circle cx="137" cy="31.5" r="7" fill="#06B6D4" opacity="0.2"/>
-  <circle cx="137" cy="31.5" r="3.5" fill="#06B6D4"/>
-  <text x="468" y="7" class="repo-stars">303</text>
+  <rect x="0" y="26" width="138" height="11" rx="5.5" fill="#06B6D4"/>
+  <circle cx="138" cy="31.5" r="7" fill="#06B6D4" opacity="0.2"/>
+  <circle cx="138" cy="31.5" r="3.5" fill="#06B6D4"/>
+  <text x="468" y="7" class="repo-stars">305</text>
   <text x="468" y="25" class="repo-forks">9 forks</text>
 </g>
 
@@ -133,11 +133,11 @@
   <text x="0" y="0" class="repo-title">PMT</text>
   <text x="0" y="18" class="repo-meta">Mondo-Robotics/PMT / Behavior Foundation Model</text>
   <rect x="0" y="26" width="380" height="11" rx="5.5" fill="#E9EEF7"/>
-  <rect x="0" y="26" width="76" height="11" rx="5.5" fill="#D946EF"/>
-  <circle cx="76" cy="31.5" r="7" fill="#D946EF" opacity="0.2"/>
-  <circle cx="76" cy="31.5" r="3.5" fill="#D946EF"/>
-  <text x="468" y="7" class="repo-stars">167</text>
-  <text x="468" y="25" class="repo-forks">8 forks</text>
+  <rect x="0" y="26" width="82" height="11" rx="5.5" fill="#D946EF"/>
+  <circle cx="82" cy="31.5" r="7" fill="#D946EF" opacity="0.2"/>
+  <circle cx="82" cy="31.5" r="3.5" fill="#D946EF"/>
+  <text x="468" y="7" class="repo-stars">181</text>
+  <text x="468" y="25" class="repo-forks">9 forks</text>
 </g>
 
 <g transform="translate(398 584)">
@@ -154,7 +154,7 @@
 
   <g transform="translate(70 652)">
     <rect width="820" height="1" fill="#E4EAF4"/>
-    <text x="0" y="28" class="subtitle">Updated 2026-07-15 UTC from the GitHub API.</text>
+    <text x="0" y="28" class="subtitle">Updated 2026-07-16 UTC from the GitHub API.</text>
     <text x="820" y="28" class="subtitle" text-anchor="end">Robot learning code portfolio</text>
   </g>
 </svg>
