@@ -42,7 +42,7 @@
     <circle cx="140" cy="116" r="92" fill="none" stroke="#E8EEF7" stroke-width="18"/>
     <circle cx="140" cy="116" r="92" fill="none" stroke="#E85D75" stroke-width="18" stroke-linecap="round" stroke-dasharray="439 578" transform="rotate(-90 140 116)"/>
     <circle cx="140" cy="116" r="64" fill="none" stroke="#17B890" stroke-width="10" stroke-linecap="round" stroke-dasharray="270 578" transform="rotate(-32 140 116)"/>
-    <text x="140" y="105" class="metric" text-anchor="middle">3,294</text>
+    <text x="140" y="105" class="metric" text-anchor="middle">3,298</text>
     <text x="140" y="132" class="label" text-anchor="middle">tracked stars</text>
 
     <g transform="translate(28 210)">
@@ -89,10 +89,10 @@
   <text x="0" y="0" class="repo-title">GS-Playground</text>
   <text x="0" y="18" class="repo-meta">discoverse-dev/gs_playground / Simulation</text>
   <rect x="0" y="26" width="380" height="11" rx="5.5" fill="#E9EEF7"/>
-  <rect x="0" y="26" width="203" height="11" rx="5.5" fill="#F59E0B"/>
-  <circle cx="203" cy="31.5" r="7" fill="#F59E0B" opacity="0.2"/>
-  <circle cx="203" cy="31.5" r="3.5" fill="#F59E0B"/>
-  <text x="468" y="7" class="repo-stars">465</text>
+  <rect x="0" y="26" width="204" height="11" rx="5.5" fill="#F59E0B"/>
+  <circle cx="204" cy="31.5" r="7" fill="#F59E0B" opacity="0.2"/>
+  <circle cx="204" cy="31.5" r="3.5" fill="#F59E0B"/>
+  <text x="468" y="7" class="repo-stars">466</text>
   <text x="468" y="25" class="repo-forks">36 forks</text>
 </g>
 
@@ -103,7 +103,7 @@
   <rect x="0" y="26" width="186" height="11" rx="5.5" fill="#8B5CF6"/>
   <circle cx="186" cy="31.5" r="7" fill="#8B5CF6" opacity="0.2"/>
   <circle cx="186" cy="31.5" r="3.5" fill="#8B5CF6"/>
-  <text x="468" y="7" class="repo-stars">425</text>
+  <text x="468" y="7" class="repo-stars">426</text>
   <text x="468" y="25" class="repo-forks">33 forks</text>
 </g>
 
@@ -111,10 +111,10 @@
   <text x="0" y="0" class="repo-title">Legged Robots Manipulation</text>
   <text x="0" y="18" class="repo-meta">aCodeDog/legged-robots-manipulation / Loco-Manipulation</text>
   <rect x="0" y="26" width="380" height="11" rx="5.5" fill="#E9EEF7"/>
-  <rect x="0" y="26" width="178" height="11" rx="5.5" fill="#E85D75"/>
-  <circle cx="178" cy="31.5" r="7" fill="#E85D75" opacity="0.2"/>
-  <circle cx="178" cy="31.5" r="3.5" fill="#E85D75"/>
-  <text x="468" y="7" class="repo-stars">408</text>
+  <rect x="0" y="26" width="179" height="11" rx="5.5" fill="#E85D75"/>
+  <circle cx="179" cy="31.5" r="7" fill="#E85D75" opacity="0.2"/>
+  <circle cx="179" cy="31.5" r="3.5" fill="#E85D75"/>
+  <text x="468" y="7" class="repo-stars">409</text>
   <text x="468" y="25" class="repo-forks">40 forks</text>
 </g>
 
@@ -133,10 +133,10 @@
   <text x="0" y="0" class="repo-title">PMT</text>
   <text x="0" y="18" class="repo-meta">Mondo-Robotics/PMT / Behavior Foundation Model</text>
   <rect x="0" y="26" width="380" height="11" rx="5.5" fill="#E9EEF7"/>
-  <rect x="0" y="26" width="97" height="11" rx="5.5" fill="#D946EF"/>
-  <circle cx="97" cy="31.5" r="7" fill="#D946EF" opacity="0.2"/>
-  <circle cx="97" cy="31.5" r="3.5" fill="#D946EF"/>
-  <text x="468" y="7" class="repo-stars">223</text>
+  <rect x="0" y="26" width="98" height="11" rx="5.5" fill="#D946EF"/>
+  <circle cx="98" cy="31.5" r="7" fill="#D946EF" opacity="0.2"/>
+  <circle cx="98" cy="31.5" r="3.5" fill="#D946EF"/>
+  <text x="468" y="7" class="repo-stars">224</text>
   <text x="468" y="25" class="repo-forks">12 forks</text>
 </g>
 
@@ -154,7 +154,7 @@
 
   <g transform="translate(70 652)">
     <rect width="820" height="1" fill="#E4EAF4"/>
-    <text x="0" y="28" class="subtitle">Updated 2026-08-12 UTC from the GitHub API.</text>
+    <text x="0" y="28" class="subtitle">Updated 2026-08-13 UTC from the GitHub API.</text>
     <text x="820" y="28" class="subtitle" text-anchor="end">Robot learning code portfolio</text>
   </g>
 </svg>
