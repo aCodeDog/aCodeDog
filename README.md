@@ -58,9 +58,11 @@
 
 ## 📰 News
 
-- **Jun 2026** — New project: [**Perceptive Behavior Foundation Model**](https://acodedog.github.io/perceptive-bfm/) ([Code](https://github.com/Mondo-Robotics/PMT)) — adapting human motion priors to robot-centric terrain *(under review)*.
+- **Sep 2026** — 🎉 Four papers accepted to **CoRL 2026**: [**Perceptive Behavior Foundation Model**](https://acodedog.github.io/perceptive-bfm/) (first author), [**UniLab**](https://unilabsim.github.io/), **MeshMimic**, and **SOLO**.
+- **2026** — 🎉 Two papers accepted to the **RSS 2026 Workshop on Whole-body Control and Bimanual Manipulation** ([**Perceptive BFM**](https://acodedog.github.io/perceptive-bfm/) & [**UniLab**](https://unilabsim.github.io/)).
+- **Jun 2026** — New preprint: [**Perceptive Behavior Foundation Model**](https://acodedog.github.io/perceptive-bfm/) ([arXiv](https://arxiv.org/abs/2606.08059) · [Code](https://github.com/Mondo-Robotics/PMT)) — adapting human motion priors to robot-centric terrain.
 - **2026** — 🎉 One paper accepted to **RSS 2026**: [**GS-Playground**](https://gsplayground.github.io/) ([Code](https://github.com/discoverse-dev/gs_playground)), a high-throughput photorealistic simulator for vision-informed robot learning.
-- **2026** — New preprint: [**UniLab**](https://unilabsim.github.io/) ([Code](https://github.com/unilabsim/UniLab)) — a heterogeneous architecture for robot RL beyond GPU-dominant paradigms.
+- **2026** — New preprint: [**UniLab**](https://unilabsim.github.io/) ([Code](https://github.com/Motphys/UniLab)) — a heterogeneous architecture for robot RL beyond GPU-dominant paradigms.
 - **2026** — New preprint: [**DiT4DiT**](https://dit4dit.github.io/) ([Code](https://github.com/Mondo-Robotics/DiT4DiT)) — jointly modeling video dynamics and actions for generalizable robot control.
 - **2025** — 🎉 One paper accepted to **NeurIPS 2025** on vision-language-action cross-task generalization.
 - **2025** — 🎉 Two papers accepted to **CoRL 2025** ([**OmniPerception**](https://acodedog.github.io/OmniPerceptionPages/), Oral & [**GLOVER++**](https://teleema.github.io/projects/GLOVER++/)).
@@ -71,18 +73,20 @@
 
 ## 📝 Selected Publications
 
-- [**Perceptive Behavior Foundation Model: Adapting Human Motion Priors to Robot-Centric Terrain.**](https://acodedog.github.io/perceptive-bfm/) &nbsp; ![Under Review](https://img.shields.io/badge/Under%20Review-grey) &nbsp; [Code](https://github.com/Mondo-Robotics/PMT)
-  <br/><sub>**Zifan Wang**, et al.</sub>
+- [**Perceptive Behavior Foundation Model: Adapting Human Motion Priors to Robot-Centric Terrain.**](https://acodedog.github.io/perceptive-bfm/) &nbsp; ![CoRL 2026](https://img.shields.io/badge/CoRL%202026-1f6feb) ![RSS 2026 WCBM Workshop](https://img.shields.io/badge/RSS%202026-WCBM%20Workshop-1f7a3d) &nbsp; [arXiv](https://arxiv.org/abs/2606.08059) · [Code](https://github.com/Mondo-Robotics/PMT)
+  <br/><sub>**Zifan Wang**, Yizhao Li, Teli Ma, Qiang Zhang, Yudong Fan, Hao Xu, Shuo Yang, Junwei Liang</sub>
 - [**GS-Playground: A High-Throughput Photorealistic Simulator for Vision-Informed Robot Learning.**](https://gsplayground.github.io/) &nbsp; ![RSS 2026](https://img.shields.io/badge/RSS%202026-1f7a3d) &nbsp; [Code](https://github.com/discoverse-dev/gs_playground)
   <br/><sub>Yufei Jia\*, Heng Zhang\*, …, **Zifan Wang**, et al.</sub>
 - [**DiT4DiT: Jointly Modeling Video Dynamics and Actions for Generalizable Robot Control.**](https://dit4dit.github.io/) &nbsp; ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b) &nbsp; [Code](https://github.com/Mondo-Robotics/DiT4DiT)
   <br/><sub>Teli Ma, Jia Zheng, **Zifan Wang**, Chunli Jiang, Andy Cui, Junwei Liang, Shuo Yang</sub>
-- [**UniLab: A Heterogeneous Architecture for Robot RL Beyond GPU-Dominant Paradigms.**](https://unilabsim.github.io/) &nbsp; ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b) &nbsp; [Code](https://github.com/unilabsim/UniLab)
+- [**UniLab: A Heterogeneous Architecture for Robot RL Beyond GPU-Dominant Paradigms.**](https://unilabsim.github.io/) &nbsp; ![CoRL 2026](https://img.shields.io/badge/CoRL%202026-1f6feb) ![RSS 2026 WCBM Workshop](https://img.shields.io/badge/RSS%202026-WCBM%20Workshop-1f7a3d) &nbsp; [Code](https://github.com/Motphys/UniLab)
   <br/><sub>Yufei Jia\*, Zhanxiang Cao\*, …, **Zifan Wang**, et al.</sub>
 - [**Omni-Perception: Omnidirectional Collision Avoidance for Legged Locomotion in Dynamic Environments.**](https://acodedog.github.io/OmniPerceptionPages/) &nbsp; ![CoRL 2025 Oral](https://img.shields.io/badge/CoRL%202025-Oral-1f6feb)
   <br/><sub>**Zifan Wang**, Teli Ma, Yufei Jia, Xun Yang, Jiaming Zhou, Wenlong Ouyang, Qiang Zhang, Junwei Liang</sub>
-- **MeshMimic: Geometry-Aware Humanoid Motion Learning through 3D Scene Reconstruction.** &nbsp; ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b)
+- **MeshMimic: Geometry-Aware Humanoid Motion Learning through 3D Scene Reconstruction.** &nbsp; ![CoRL 2026](https://img.shields.io/badge/CoRL%202026-1f6feb)
   <br/><sub>Qiang Zhang, Jiahao Ma, Peiran Liu, Shuai Shi, Zeran Su, **Zifan Wang**, Jingkai Sun, et al.</sub>
+- **SOLO: Stable Omni-terrain Long-Horizon Perceptive Humanoid Locomotion.** &nbsp; ![CoRL 2026](https://img.shields.io/badge/CoRL%202026-1f6feb)
+  <br/><sub>Pihai Sun, Gang Han, Jingkai Sun, Jiahao Ma, Zeran Su, Zelin Tao, Peiran Liu, Shuai Shi, Wei Cui, **Zifan Wang**, et al.</sub>
 - [**GLOVER++: Unleashing the Potential of Affordance Learning from Human Behaviors for Robotic Manipulation.**](https://teleema.github.io/projects/GLOVER++/) &nbsp; ![CoRL 2025](https://img.shields.io/badge/CoRL%202025-1f6feb)
   <br/><sub>Teli Ma, Jia Zheng, **Zifan Wang**, Ziyao Gao, Jiaming Zhou, Junwei Liang</sub>
 - **Exploring the Limits of Vision-Language-Action Manipulations in Cross-Task Generalization.** &nbsp; ![NeurIPS 2025](https://img.shields.io/badge/NeurIPS%202025-8a2be2)
@@ -111,9 +115,11 @@
 
 <br/>
 
-- [**Perceptive Behavior Foundation Model**](https://acodedog.github.io/perceptive-bfm/) ([Code](https://github.com/Mondo-Robotics/PMT)) — Adapting human motion priors to robot-centric terrain *(Under Review)* ![GitHub stars](https://img.shields.io/github/stars/Mondo-Robotics/PMT?style=social)
+- [**Perceptive Behavior Foundation Model**](https://acodedog.github.io/perceptive-bfm/) ([Code](https://github.com/Mondo-Robotics/PMT)) — Adapting human motion priors to robot-centric terrain **(CoRL 2026)** ![GitHub stars](https://img.shields.io/github/stars/Mondo-Robotics/PMT?style=social)
 - [**OmniPerception**](https://acodedog.github.io/OmniPerceptionPages/) — Omnidirectional collision avoidance for legged locomotion **(CoRL 2025, Oral)** ![GitHub stars](https://img.shields.io/github/stars/aCodeDog/OmniPerception?style=social)
-- [**UniLab**](https://unilabsim.github.io/) ([Code](https://github.com/unilabsim/UniLab)) — Heterogeneous architecture for robot RL beyond GPU-dominant paradigms *(Preprint)* ![GitHub stars](https://img.shields.io/github/stars/unilabsim/UniLab?style=social)
+- [**UniLab**](https://unilabsim.github.io/) ([Code](https://github.com/Motphys/UniLab)) — Heterogeneous architecture for robot RL beyond GPU-dominant paradigms **(CoRL 2026)** ![GitHub stars](https://img.shields.io/github/stars/Motphys/UniLab?style=social)
+- **MeshMimic** — Geometry-aware humanoid motion learning through 3D scene reconstruction **(CoRL 2026)**
+- **SOLO** — Stable omni-terrain long-horizon perceptive humanoid locomotion **(CoRL 2026)**
 - [**Diffusion Planner**](https://shangjaven.github.io/preference-aligned-diffusion-legged/) — Preference-aligned diffusion planner for quadrupedal locomotion **(IROS 2025)**
 - [**Wheel-Legged MPC**](https://www.roboarts.cn/index) — MIP-MPC framework for wheeled-legged robots on tough terrain **(ARTS 2023)**
 

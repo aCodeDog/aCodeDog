@@ -28,7 +28,7 @@ REPOS = [
   },
   {
     title: "UniLab",
-    repo: "unilabsim/UniLab",
+    repo: "Motphys/UniLab",
     page: "https://unilabsim.github.io/",
     domain: "Heterogeneous RL",
     color: "#17B890"
@@ -77,8 +77,7 @@ REPOS = [
   }
 ].freeze
 
-def fetch_repo(repo)
-  uri = URI("https://api.github.com/repos/#{repo}")
+def fetch_json(uri, redirects_left = 3)
   request = Net::HTTP::Get.new(uri)
   request["Accept"] = "application/vnd.github+json"
   request["User-Agent"] = "aCodeDog-profile-stats"
@@ -90,9 +89,18 @@ def fetch_repo(repo)
     http.request(request)
   end
 
-  raise "GitHub API error for #{repo}: #{response.code} #{response.message}" unless response.is_a?(Net::HTTPSuccess)
+  # A renamed or transferred repository answers 301 with the new location.
+  if response.is_a?(Net::HTTPRedirection) && response["location"] && redirects_left.positive?
+    return fetch_json(URI(response["location"]), redirects_left - 1)
+  end
+
+  raise "GitHub API error for #{uri}: #{response.code} #{response.message}" unless response.is_a?(Net::HTTPSuccess)
 
   JSON.parse(response.body)
+end
+
+def fetch_repo(repo)
+  fetch_json(URI("https://api.github.com/repos/#{repo}"))
 end
 
 def format_number(value)
