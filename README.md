@@ -58,7 +58,7 @@
 
 ## 📰 News
 
-- **Sep 2026** — 🎉 Four papers accepted to **CoRL 2026**: [**Perceptive Behavior Foundation Model**](https://acodedog.github.io/perceptive-bfm/) (first author), [**UniLab**](https://unilabsim.github.io/), **MeshMimic**, and **SOLO**.
+- **Sep 2026** — 🎉 Four papers accepted to **CoRL 2026**: [**Perceptive Behavior Foundation Model**](https://acodedog.github.io/perceptive-bfm/), [**UniLab**](https://unilabsim.github.io/), **MeshMimic**, and **SOLO**.
 - **2026** — 🎉 Two papers accepted to the **RSS 2026 Workshop on Whole-body Control and Bimanual Manipulation** ([**Perceptive BFM**](https://acodedog.github.io/perceptive-bfm/) & [**UniLab**](https://unilabsim.github.io/)).
 - **Jun 2026** — New preprint: [**Perceptive Behavior Foundation Model**](https://acodedog.github.io/perceptive-bfm/) ([arXiv](https://arxiv.org/abs/2606.08059) · [Code](https://github.com/Mondo-Robotics/PMT)) — adapting human motion priors to robot-centric terrain.
 - **2026** — 🎉 One paper accepted to **RSS 2026**: [**GS-Playground**](https://gsplayground.github.io/) ([Code](https://github.com/discoverse-dev/gs_playground)), a high-throughput photorealistic simulator for vision-informed robot learning.
