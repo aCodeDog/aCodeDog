@@ -42,7 +42,7 @@
     <circle cx="140" cy="116" r="92" fill="none" stroke="#E8EEF7" stroke-width="18"/>
     <circle cx="140" cy="116" r="92" fill="none" stroke="#E85D75" stroke-width="18" stroke-linecap="round" stroke-dasharray="439 578" transform="rotate(-90 140 116)"/>
     <circle cx="140" cy="116" r="64" fill="none" stroke="#17B890" stroke-width="10" stroke-linecap="round" stroke-dasharray="270 578" transform="rotate(-32 140 116)"/>
-    <text x="140" y="105" class="metric" text-anchor="middle">3,567</text>
+    <text x="140" y="105" class="metric" text-anchor="middle">3,570</text>
     <text x="140" y="132" class="label" text-anchor="middle">tracked stars</text>
 
     <g transform="translate(28 210)">
@@ -92,7 +92,7 @@
   <rect x="0" y="26" width="197" height="11" rx="5.5" fill="#F59E0B"/>
   <circle cx="197" cy="31.5" r="7" fill="#F59E0B" opacity="0.2"/>
   <circle cx="197" cy="31.5" r="3.5" fill="#F59E0B"/>
-  <text x="468" y="7" class="repo-stars">494</text>
+  <text x="468" y="7" class="repo-stars">495</text>
   <text x="468" y="25" class="repo-forks">38 forks</text>
 </g>
 
@@ -104,7 +104,7 @@
   <circle cx="184" cy="31.5" r="7" fill="#8B5CF6" opacity="0.2"/>
   <circle cx="184" cy="31.5" r="3.5" fill="#8B5CF6"/>
   <text x="468" y="7" class="repo-stars">462</text>
-  <text x="468" y="25" class="repo-forks">36 forks</text>
+  <text x="468" y="25" class="repo-forks">35 forks</text>
 </g>
 
 <g transform="translate(398 422)">
@@ -115,7 +115,7 @@
   <circle cx="168" cy="31.5" r="7" fill="#E85D75" opacity="0.2"/>
   <circle cx="168" cy="31.5" r="3.5" fill="#E85D75"/>
   <text x="468" y="7" class="repo-stars">421</text>
-  <text x="468" y="25" class="repo-forks">40 forks</text>
+  <text x="468" y="25" class="repo-forks">41 forks</text>
 </g>
 
 <g transform="translate(398 476)">
@@ -136,7 +136,7 @@
   <rect x="0" y="26" width="122" height="11" rx="5.5" fill="#D946EF"/>
   <circle cx="122" cy="31.5" r="7" fill="#D946EF" opacity="0.2"/>
   <circle cx="122" cy="31.5" r="3.5" fill="#D946EF"/>
-  <text x="468" y="7" class="repo-stars">305</text>
+  <text x="468" y="7" class="repo-stars">307</text>
   <text x="468" y="25" class="repo-forks">18 forks</text>
 </g>
 
@@ -154,7 +154,7 @@
 
   <g transform="translate(70 652)">
     <rect width="820" height="1" fill="#E4EAF4"/>
-    <text x="0" y="28" class="subtitle">Updated 2026-10-13 UTC from the GitHub API.</text>
+    <text x="0" y="28" class="subtitle">Updated 2026-10-14 UTC from the GitHub API.</text>
     <text x="820" y="28" class="subtitle" text-anchor="end">Robot learning code portfolio</text>
   </g>
 </svg>
